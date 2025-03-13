@@ -9,7 +9,6 @@ Space Invader is a fun 2D arcade-style game built with Python where players cont
 - **Simple Controls**: Use arrow keys to move and spacebar to shoot
 - **Progressive Difficulty**: Game speed increases as you advance through levels
 - **Score System**: Earn points for each duck you shoot down
-- **Multiple Levels**: Advance through levels with increasing difficulty
 - **Game States**: Experience different game states (playing, game over, victory)
 
 ## How to Play
